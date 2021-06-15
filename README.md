@@ -51,7 +51,9 @@ FinPricing provides two interfaces for users to capture trades:
 
 Trade life cycle has different stages, by which a trade flows through. These detail steps are from the point of order, receipt, execution and settlement of trades in a systematic manner. In other words, it is regarded as a series of logical steps which are represented in such a manner where the trade is allowed to go through keeping track of its related objective and importance.
 
-You can find more details at
-https://finpricing.com/lib/IrCurveIntroduction.html
+References:
+
+https://finpricing.com/lib/EqBarrier.html
+
 
 
